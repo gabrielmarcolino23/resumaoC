@@ -1,0 +1,30 @@
+Comandos C 
+
+%d ---> Mascara para int
+
+%c ---> char
+
+%s ---> array de char
+
+%f --> float
+
+%lf ---> double
+
+%p --> &var (assim descobrimos o end de memoria de uma var)
+
+
+
+
+---------- PONTEIROS -------------
+
+Declaracao de um ponteiro:
+
+int *p 
+
+Para acessaro valor no qual o ponteiro aponta
+
+*p
+
+Para obter o endereco de uma variavel 
+p = &x 
+Isso armazena o endereco de x em p
